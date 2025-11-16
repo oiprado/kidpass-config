@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: authorization-service
+  data:
+    mongodb:
+      database: kidpass-authz-db

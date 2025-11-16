@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: auth-service
+  data:
+    mongodb:
+      uri: mongodb://mongodbs:27017/users
+      host: localhost # MongoDB host
+      port: 27017 # MongoDB port
+      database: kidpass # Database name
+      username: admin # Username (if authentication is required)
+      password: admin # Password (if authentication is required)
