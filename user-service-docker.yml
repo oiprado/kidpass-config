@@ -3,6 +3,7 @@ spring:
     name: user-service
   data:
     mongodb:
+      uri: mongodb://localhost:27018/users
       host: localhost
       port: 27018
       database: kidpass
