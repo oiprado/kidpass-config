@@ -3,7 +3,7 @@ spring:
     name: user-service
   data:
     mongodb:
-      host:localhost # MongoDB host
+      host: localhost # MongoDB host
       port: 27018 # MongoDB port
       database: kidpass # Database name
       username: admin # Username (if authentication is required)
