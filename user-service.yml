@@ -4,7 +4,7 @@ spring:
   data:
     mongodb:
       host: kidpass-mongodb # MongoDB host
-      port: 27018 # MongoDB port
+      port: 27019 # MongoDB port
       database: kidpass # Database name
       username: admin # Username (if authentication is required)
       password: admin # Password (if authentication is required)
