@@ -3,9 +3,9 @@ spring:
     name: user-service
   data:
     mongodb:
-      uri: mongodb://kidpass-mongodb:27018/users
+      uri: mongodb://kidpass-mongodb:27017/users
       host: kidpass-mongodb
-      port: 27018
+      port: 27017
       database: kidpass
       username: admin
       password: admin
